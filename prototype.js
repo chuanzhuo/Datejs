@@ -6,7 +6,7 @@
  *  For details, see the Prototype web site: http://www.prototypejs.org/
  *
  *--------------------------------------------------------------------------*/
-
+tttt
 /**
  * Prototype
  *
